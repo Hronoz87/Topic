@@ -4,7 +4,7 @@
     height: 600px;
     border: 1px solid black;
     background: rgb(34,193,195);
-background: radial-gradient(circle, rgba(34,193,195,1) 0%, rgba(175,43,163,1) 77%);
+    background: radial-gradient(circle, rgba(34,193,195,1) 0%, rgba(175,43,163,1) 77%);
     flex-direction: column;
     font-size: x-large;
     font-family: cursive;
@@ -17,7 +17,7 @@ background: radial-gradient(circle, rgba(34,193,195,1) 0%, rgba(175,43,163,1) 77
     border-bottom: 1px solid black;
     padding: 10px 0 10px 10px;
     background: rgb(34,193,195);
-background: radial-gradient(circle, rgba(34,193,195,1) 0%, rgba(175,43,163,1) 77%);
+    background: radial-gradient(circle, rgba(34,193,195,1) 0%, rgba(175,43,163,1) 77%);
 }
 .sender {
     display: flex;
@@ -35,7 +35,7 @@ background: radial-gradient(circle, rgba(34,193,195,1) 0%, rgba(175,43,163,1) 77
 .user_sender {
     display: flex;
     background: rgb(2,0,36);
-background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(180,110,148,1) 54%, rgba(0,212,255,1) 100%);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(180,110,148,1) 54%, rgba(0,212,255,1) 100%);
     width: 150px;
     text-align: center; 
     font-size: large;
@@ -55,7 +55,7 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(180,110,148,1) 54%, r
     width: 100%;
     border: 2px solid black;
     background: rgb(34,193,195);
-background: radial-gradient(circle, rgba(34,193,195,1) 0%, rgba(195,102,187,0.958420868347339) 92%);
+    background: radial-gradient(circle, rgba(34,193,195,1) 0%, rgba(195,102,187,0.958420868347339) 92%);
 }
 .name {
     border: 1px solid black;
@@ -64,14 +64,15 @@ background: radial-gradient(circle, rgba(34,193,195,1) 0%, rgba(195,102,187,0.95
     width: 60px;
     height: 40px;
     background: rgb(34,193,195);
-background: radial-gradient(circle, rgba(34,193,195,1) 0%, rgba(175,43,163,1) 77%);
+    background: radial-gradient(circle, rgba(34,193,195,1) 0%, rgba(175,43,163,1) 77%);
     line-height: 38px;
 }
 input[type="button"] {
     float: right;
     margin-right: 5px;
     font-weight: bold;
-    background: rgb(241, 199, 143);;
+    background: rgb(34,193,195);
+    background: radial-gradient(circle, rgba(34,193,195,1) 0%, rgba(175,43,163,1) 77%);
     font-size: large;
     border: none;
 }
